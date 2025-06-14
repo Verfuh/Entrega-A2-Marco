@@ -12,7 +12,7 @@ Este repositório contém os arquivos referentes à entrega do trabalho da disci
 
 ## 📌 Descrição dos Arquivos
 
-- **`portfolio/`**: Contém os arquivos do portfólio acadêmico, com seções como "Sobre Mim", "Habilidades", "Projetos" e "Contato", estilizado com HTML e CSS inline.
+- **`portfolio/`**: Contém os arquivos do portfólio acadêmico, com seções como "Sobre Mim", "Habilidades", "Projetos" e "Contato".
 - **`apresentacao.pdf`**: Apresentação utilizada para exposição do trabalho à banca/professor.
 - **`relatorio/`**: Código-fonte em LaTeX do relatório técnico, com introdução, objetivos, metodologia, resultados e considerações finais.
 
