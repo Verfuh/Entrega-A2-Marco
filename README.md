@@ -7,14 +7,14 @@ Este repositório contém os arquivos referentes à entrega do trabalho da disci
 ```
 📁 portfolio/         → Projeto de portfólio desenvolvido em HTML/CSS/  
 📄 apresentacao.pdf   → Apresentação em PDF usada para defesa do projeto  
-📄 relatorio.tex      → Relatório técnico/documentação em LaTeX  
+📁 relatorio/      → Relatório técnico/documentação em LaTeX  
 ```
 
 ## 📌 Descrição dos Arquivos
 
 - **`portfolio/`**: Contém os arquivos do portfólio acadêmico, com seções como "Sobre Mim", "Habilidades", "Projetos" e "Contato", estilizado com HTML e CSS inline.
 - **`apresentacao.pdf`**: Apresentação utilizada para exposição do trabalho à banca/professor.
-- **`relatorio.tex`**: Código-fonte em LaTeX do relatório técnico, com introdução, objetivos, metodologia, resultados e considerações finais.
+- **`relatorio/`**: Código-fonte em LaTeX do relatório técnico, com introdução, objetivos, metodologia, resultados e considerações finais.
 
 ## ▶️ Como Visualizar o Portfólio
 
